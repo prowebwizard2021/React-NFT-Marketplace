@@ -1,0 +1,73 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Try Down Bad",
+      "description": "In 'Argentina: #IRCs21' the artists have carefully crafted a AFA medallion and framed it in a recognizable trophy like design. Interactive NFT's visually adjust according to Argentina's performance; at one point the shield will shine bright in a grand and sparkling golden frame when the team wins, its standard setting when there is a tie, and if losing, turns to a rainy bronze reflection of a lost match.",
+      "artist": "a dummy description about this page",
+      "priceLabel": "test, dummy, data",
+      "priceValue": "500",
+      "url": "https://storage.googleapis.com/ethernity-nft/mainnet/nft/0x65676E9407e1713E7DCC1253D23A7537AA3a4e27/nft.mp4",
+      "isMultiple": true
+    },
+    {
+      "id": 2,
+      "title": "Argentina: Official 2021 Team Jersey",
+      "artist": "a dummy description about this page",
+      "priceLabel": "test, dummy, data",
+      "priceValue": "4000",
+      "url": "https://storage.googleapis.com/ethernity-nft/mainnet/nft/0x96E9144C3c01F9F9F80614c5C501884a5609dc25/nft.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Argentina: Mystery Box",
+      "artist": "a dummy description about this page",
+      "priceLabel": "test, dummy, data",
+      "priceValue": "250",
+      "url": "https://storage.googleapis.com/ethernity-nft/mainnet/nft/0x65676E9407e1713E7DCC1253D23A7537AA3a4e27/nft.mp4",
+      "isMultiple": true
+
+    },
+    {
+      "id": 4,
+      "title": "Luis Suarez: Common",
+      "artist": "a dummy description about this page",
+      "priceLabel": "test, dummy, data",
+      "priceValue": "250",
+      "url": "https://storage.googleapis.com/ethernity-nft/mainnet/nft/0x65676E9407e1713E7DCC1253D23A7537AA3a4e27/nft.mp4",
+      "isMultiple": true
+    },
+    {
+      "id": 5,
+      "title": "Luis Suarez: Legendary",
+      "artist": "a dummy description about this page",
+      "priceLabel": "test, dummy, data",
+      "priceValue": "250",
+      "url": "https://storage.googleapis.com/ethernity-nft/mainnet/nft/0x65676E9407e1713E7DCC1253D23A7537AA3a4e27/nft.mp4"    
+    },
+    {
+      "id": 6,
+      "title": "Luis Suarez: Epic",
+      "artist": "a dummy description about this page",
+      "priceLabel": "test, dummy, data",
+      "priceValue": "250",
+      "url": "https://storage.googleapis.com/ethernity-nft/mainnet/nft/0x65676E9407e1713E7DCC1253D23A7537AA3a4e27/nft.mp4"    
+    },
+    {
+      "id": 7,
+      "title": "Luis Suarez: A Gilded Match",
+      "artist": "a dummy description about this page",
+      "priceLabel": "test, dummy, data",
+      "priceValue": "250",
+      "url": "https://storage.googleapis.com/ethernity-nft/mainnet/nft/0x65676E9407e1713E7DCC1253D23A7537AA3a4e27/nft.mp4"    
+    },
+    {
+      "id": 8,
+      "title": "Heavy Metal: Mortermir Trading Card",
+      "artist": "a dummy description about this page",
+      "priceLabel": "test, dummy, data",
+      "priceValue": "250",
+      "url": "https://storage.googleapis.com/ethernity-nft/mainnet/nft/0x65676E9407e1713E7DCC1253D23A7537AA3a4e27/nft.mp4"    
+    }
+  ]
+}
